@@ -1,4 +1,4 @@
-Menu Sample App
+PCL Classification Project
 ===================================
 
 In this project I am using an RGBD camera to collect point cloud data of items in the the environemnt, then classify the items using an SVM.  
