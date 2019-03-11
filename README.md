@@ -16,7 +16,7 @@ Here are the steps in this project
 1. Summon each item 100 times at random orientations and extract the normal vector features and colour features. Fit these features in a hustogram.
 2. Train an SVM on the histogram for each object
 3. Collect point clout data of environemnt that has the objects
-4. Perform the following operations on the point cloud data
+4. Perform the following operations on the point cloud data  
   a. Statistical Outlier Filtering  
   b. Voxel grid downsampling  
   c. Passthrough filter  
