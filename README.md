@@ -1,5 +1,6 @@
 PCL Classification Project
 ===================================
+[TOC]
 
 In this project I am using an RGBD camera to collect point cloud data of items in the the environemnt, then classify the items using an SVM.  
 This is a Udacity project in the Udacity Robotics Nanodegree.
